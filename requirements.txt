@@ -1,0 +1,11 @@
+Flask==3.0.3
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+shap
+reportlab
+openpyxl
+plotly
+streamlit
